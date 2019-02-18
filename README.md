@@ -1,16 +1,16 @@
 # improve your coding skills
 
-Made for Juniors
+:beginner: Made for Juniors
 ----
 If you are a Senior Developer or having confidence with your code, You don't have to check it.
 
-This is not a code-cop or linters
+:white_check_mark: This is not a code-cop or linters
 ----
 * It DOES NOT enforce you to keep strict coding style.
 * It DOES NOT find vulnerabilities or compiler warnings.
 * it DOES check consistency of conventions and namings, and addional basic validations irrespectively of your coding styles.
 
-Alright, Let's take a look
+:tada: Alright, Let's take a look
 ----
 ```cs
 using System;
